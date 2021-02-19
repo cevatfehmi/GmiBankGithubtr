@@ -1,2 +1,5 @@
-package Gmbank4.pages;public class GmbankPages {
+package Gmbank4.pages;
+
+public class GmbankPages {
+
 }
